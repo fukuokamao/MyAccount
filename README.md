@@ -1,9 +1,8 @@
 # 職務経歴書
 
 ## スキル
-C#
-
-Unity
+- C#
+- Unity
 
 Linux
 
