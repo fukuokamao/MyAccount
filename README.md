@@ -1,6 +1,9 @@
 # 履歴書
 福岡麻央
 
+![IMG_8760](https://user-images.githubusercontent.com/24311409/111929469-bbf7c880-8af9-11eb-8926-3c56a327bc98.JPG)
+
+
 1992/3/7生 (29)
 
 大阪府出身
